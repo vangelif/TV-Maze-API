@@ -43,7 +43,7 @@
     "stylelint-csstree-validator": "1.x",
     "stylelint-scss": "3.x",
     "webpack": "^5.83.1",
-    "webpack-cli": "^5.1.1",
+    "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.0"
   },
   "jest": {
